@@ -2,7 +2,7 @@
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "Script Loaded";
-    Text = "it works number 21 is here.";
+    Text = "it works number 21 is here";
     Duration = 20;
 })
 
